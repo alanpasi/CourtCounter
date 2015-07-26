@@ -21,7 +21,7 @@
                 android:fontFamily="sans-serif-medium"
                 android:gravity="center_horizontal"
                 android:padding="16dp"
-                android:text="Team A"
+                android:text="Time A"
                 android:textColor="#616161"
                 android:textSize="14sp" />
 
